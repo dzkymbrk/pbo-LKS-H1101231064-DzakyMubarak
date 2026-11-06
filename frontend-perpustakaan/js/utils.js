@@ -1,0 +1,1 @@
+function showToast(msg) { alert(msg); }
